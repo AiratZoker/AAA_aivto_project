@@ -12,6 +12,6 @@
 cli команды:\
 1.python -m cli menu (получить доступное меню с рецептами)\
 2.python -m cli order имя_пиццы --delivery (--delivery если доставка, не писать при самовывозе)\
-Пример: python -m cli order pepperoni --delivery\
+Пример: python -m cli order pepperoni --delivery
 
 
